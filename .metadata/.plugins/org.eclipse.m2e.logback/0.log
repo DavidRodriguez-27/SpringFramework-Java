@@ -230,3 +230,27 @@
 2023-06-04 14:48:17,222 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-06-04 14:48:17,222 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-06-04 14:48:17,226 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 14:57:01,784 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-04 14:57:01,785 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 14:57:01,789 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 14:59:20,887 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-04 14:59:20,887 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 14:59:20,891 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 15:00:03,851 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-04 15:00:03,852 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 15:00:03,856 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 15:00:29,621 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-04 15:00:29,622 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 15:00:29,626 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 15:00:57,087 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-04 15:00:57,087 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 15:00:57,092 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 15:03:29,790 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 15:03:29,798 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-04 15:03:29,802 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 15:04:07,151 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 15:04:07,170 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-04 15:04:07,174 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
+2023-06-04 15:04:16,894 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-04 15:04:16,915 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-04 15:04:16,922 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jcardero\Desktop\Dev\Learming\Udemy\Spring-Framework-&-Spring-Boot-desde-cero-a-experto\Projects\sprint-boot-web-david\src\test\resources
