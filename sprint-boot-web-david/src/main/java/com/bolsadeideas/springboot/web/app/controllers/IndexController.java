@@ -1,6 +1,8 @@
 package com.bolsadeideas.springboot.web.app.controllers;
 
 import java.security.KeyStore.Entry.Attribute;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -26,11 +28,22 @@ public class IndexController {
 		Usuario usuario = new Usuario();
 		usuario.setNombre("David");
 		usuario.setApellido("Rodriguez");
+		usuario.setEmail("david@correo.com");
 		
 		model.addAttribute("usuario", usuario);
 		model.addAttribute("titulo", "Perfil del usuario: ".concat(usuario.getNombre()));	
 		
 		return "prefil";
+	}
+	
+	@RequestMapping("/listar")
+	public String listar(Model model) {
+		List<Usuario> usuarios = new ArrayList<>();
+		model.addAttribute("titulo", "Listado usuarios");
+		model.addAttribute("usuarios", usuarios);
+		
+		return "listar";
+		
 	}
 }
 
