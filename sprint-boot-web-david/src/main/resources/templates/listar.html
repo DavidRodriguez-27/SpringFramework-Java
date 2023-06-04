@@ -7,7 +7,9 @@
   <body>
    <h1 th:text="${titulo}"></h1>
    
-   <table th:if="${not usuarios.isEmpty()}">
+   <div th:if="${usuarios.isEmpty()}">No hay usuarios en la lista!</div>
+   
+     <table th:if="${not usuarios.isEmpty()}">
    	<thead>
 	   	<tr>
 	   		<th>Nombre</th>
@@ -23,6 +25,5 @@
    		</tr>
    	</tbody>
    </table> 
-   
   </body>
 </hml>
